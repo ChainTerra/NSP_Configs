@@ -1,0 +1,26 @@
+{
+  "name": "cloutpool",
+  "version": "1.0.0",
+  "description": "CloutPool configs for node-stratum-pool instances",
+  "main": "coin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChainTerra/NSP_Configs.git"
+  },
+  "keywords": [
+    "bitclout",
+    "mining",
+    "mining",
+    "pools",
+    "configs"
+  ],
+  "author": "CloutPool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ChainTerra/NSP_Configs/issues"
+  },
+  "homepage": "https://github.com/ChainTerra/NSP_Configs#readme"
+}
