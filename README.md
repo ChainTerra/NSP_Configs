@@ -7,3 +7,5 @@ var CloutPool = require('CloutPool');
 ```
 
 Please keep config files outside of `lib/` folder
+
+![npm](https://img.shields.io/npm/dt/cloutpool)
