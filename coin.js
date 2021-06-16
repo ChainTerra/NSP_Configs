@@ -1,6 +1,6 @@
 var myCoin = {
     "name": "BitClout",
-    "symbol": "BTCLT",
+    "symbol": "CLOUT",
     "algorithm": "keccak",  
     /* This defaults to Vertcoin's timetable if not used. It is required for scrypt-n coins that
        have modified their N-factor timetable to be different than Vertcoin's. */
